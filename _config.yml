@@ -1,6 +1,6 @@
-name: null
+name: eeeee
 favicon: null
-layout_spectrum: 0.9807945056818426
+layout_spectrum: 0.27714
 typography_spectrum: 0.4557232775259763
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.6098952235188335
+  brandStrength: 0.3125
   lightness: 0.6588348317891359
   saturation: 0.6807773900218308
   rhythmicContrast: 0.06135299406014383
